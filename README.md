@@ -100,9 +100,7 @@ For each `λ` in the grid, `b0`, `b1` and `b2` are solved by ordinary least squa
 
 `Yield_Curve.png` is the same chart as a standalone image.
 
-<!-- Add a screenshot of your chart here:
-![Yield Curve](Yield_Curve.png)
--->
+
 
 ## Limitations
 
